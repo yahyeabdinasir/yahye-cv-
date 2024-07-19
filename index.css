@@ -1,0 +1,34 @@
+body{background-size:cover;
+    background-attachment:local;
+    background-color: #EAF6F6;
+}
+
+img {
+    width: 240px;
+    height: 180px;
+    padding-left:  0px;
+    border-radius: 60px;
+ } 
+ #ma{
+font-family: Arial;
+
+ }
+hr{
+border-style: none;
+border-top-style :dotted;
+border-color:#0b0b0b;
+border-width:5px ; 
+width: 60px;
+border-right: 7px ;
+}
+
+h2{
+    color:lightseagreen;
+}
+#wa{
+   
+    padding-right: 5px;
+    padding-left: 170px;
+    color: #9681eb;
+}
+
